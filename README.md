@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chad</h1>
-<h3 align="center">A machien learning scientist from Taiwan 🇹🇼</h3>
+<h3 align="center">A Machien Learning Scientist from Taiwan 🇹🇼</h3>
 
 - 🔭 I’m currently working on [3D mesh anomaly detection using self-supervised vision transformer](https://github.com/chadHGY/SurMIM)
 - 👨‍💻 All of my projects are available at [https://chadhgy.github.io/](https://chadhgy.github.io/)
